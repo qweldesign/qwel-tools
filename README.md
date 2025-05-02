@@ -1,8 +1,8 @@
-# QWEL CREATIVE TEMPLATE
+# QWEL CREATIVE TOOLS
 
-[QWEL.DESIGN](https://qwel.design/) の作品集 Creative Crafts のためのテンプレート
+[QWEL.DESIGN](https://qwel.design/) が PHP / JS でスクラッチした、実用的な機能モジュール群
 
-[https://qwel.design/creative/](https://qwel.design/creative/)
+[https://tools.qwel.design/](https://tools.qwel.design/)
 
 ---
 
