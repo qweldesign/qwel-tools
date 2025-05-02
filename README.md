@@ -1,6 +1,10 @@
-## QWEL STARTER TEMPLATE
+# QWEL CREATIVE TEMPLATE
 
-[QWEL.DESIGN](https://qwel.design) のweb開発のためのスターターキット
+[QWEL.DESIGN](https://qwel.design/) の作品集 Creative Crafts のためのテンプレート
+
+[https://qwel.design/creative/](https://qwel.design/creative/)
+
+---
 
 ## ライセンス | License
 
