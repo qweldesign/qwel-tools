@@ -1,0 +1,9 @@
+[submodule "business-calendar"]
+	path = business-calendar
+	url = https://github.com/qweldesign/qwel-tools-business-calendar
+[submodule "contact-form"]
+	path = contact-form
+	url = https://github.com/qweldesign/qwel-tools-contact-form
+[submodule "pic-calendar"]
+	path = pic-calendar
+	url = https://github.com/qweldesign/qwel-tools-pic-calendar
