@@ -7,3 +7,6 @@
 [submodule "pic-calendar"]
 	path = pic-calendar
 	url = https://github.com/qweldesign/qwel-tools-pic-calendar
+[submodule "simple-cms"]
+	path = simple-cms
+	url = https://github.com/qweldesign/qwel-tools-md-engine
