@@ -1,0 +1,9 @@
+[submodule "contact-form"]
+	path = contact-form
+	url = git@github.com:qweldesign/qwel-tools-contact-form.git
+[submodule "business-calendar"]
+	path = business-calendar
+	url = git@github.com:qweldesign/qwel-tools-business-calendar.git
+[submodule "simple-cms"]
+	path = simple-cms
+	url = git@github.com:qweldesign/qwel-tools-md-engine.git
