@@ -6,18 +6,30 @@
 
 ---
 
+## Business Calendar
+
+- 民宿の空室状況管理のための簡易システムとして開発した、営業日カレンダー
+- コントロールから「編集」を選択してみてください
+- → カレンダーの日付ごとの色を変えることができます
+- SQLiteで状態管理 → 自作API → JSで自作カレンダー描画 と、PHP / Vanilla JS で全てスクラッチ
+
+▶ Sample DEMO: [https://tools.qwel.design/business-calendar/]
+
+## Markdown Engine (Simple CMS)
+
+- Markdown を HTML に変換して表示
+- データベース不要、Markdown ファイルベースで管理
+- パンくずリストやページネーションを自動生成
+- 記事取得のための API 有り
+- PHP のみで動作, 軽量・シンプル
+
+▶ Sample DEMO: [https://tools.qwel.design/simple-cms/]
+
+---
+
 ## ライセンス | License
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)  
-
-このプロジェクトは [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) に基づき、改変・再配布の自由を保障しています。  
-This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) , ensuring freedom to use, modify, and redistribute.  
-
-よって、改変・再配布の際は、著作権表記（© QWEL.DESIGN）および https://qwel.design/ を明記し、ソースコードを開示してください。  
-Therefore, if you modify or redistribute this software, you must retain the copyright notice (© QWEL.DESIGN) and https://qwel.design/, and make the source code available.  
-
-詳しくは LICENSE ファイルをご覧ください。  
-See the LICENSE file for details.  
+MIT License  
 
 ---
 
