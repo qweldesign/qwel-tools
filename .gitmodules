@@ -1,0 +1,21 @@
+[submodule "contact-form"]
+	path = contact-form
+	url = git@github.com:qweldesign/qwel-tools-contact-form.git
+[submodule "business-calendar"]
+	path = business-calendar
+	url = git@github.com:qweldesign/qwel-tools-business-calendar.git
+[submodule "simple-cms"]
+	path = simple-cms
+	url = git@github.com:qweldesign/qwel-tools-md-engine.git
+[submodule "action-core"]
+	path = action-core
+	url = https://github.com/qweldesign/qwel-tools-action-core
+[submodule "fader"]
+	path = fader
+	url = https://github.com/qweldesign/qwel-tools-fader
+[submodule "modal"]
+	path = modal
+	url = https://github.com/qweldesign/qwel-tools-modal
+[submodule "slider"]
+	path = slider
+	url = https://github.com/qweldesign/qwel-tools-slider
